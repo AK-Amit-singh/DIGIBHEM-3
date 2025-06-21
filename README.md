@@ -22,6 +22,6 @@ As part of my 6-week internship at Digital Bhem as a Python Programming Intern, 
  I’ve uploaded a screen recording that showcases the gameplay experience, from start to game over.
  
 
- Outcome:
+Outcome:
 A classic Snake Game built with a smooth graphical interface, real-time key controls, dynamic score tracking, and robust game logic. This task helped me improve my skills in game development logic, event-driven programming, and Tkinter GUI design.
 
